@@ -17,5 +17,4 @@ public class Event {
         this.location = location;
     }
 
-    // getters and setters
 }
